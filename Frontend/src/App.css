@@ -1,0 +1,8 @@
+/* Additional styles if needed */
+.react-pdf__Page {
+  display: inline-block;
+}
+
+.react-pdf__Page__canvas {
+  display: block;
+}
